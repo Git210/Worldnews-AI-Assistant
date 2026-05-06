@@ -62,11 +62,6 @@ friday-tony-stark-demo/
 
 ### 2. Clone & install
 
-```bash
-git clone https://github.com/SAGAR-TAMANG/friday-tony-stark-demo.git
-cd friday-tony-stark-demo
-uv sync          # creates .venv and installs all dependencies
-```
 
 ### 3. Set up environment
 
